@@ -45,7 +45,7 @@ This is the easiest and fastest way of having OpenPlotter working. Our OpenPlott
 **OpenPlotter Moitessier HAT** - *Starting* edition apps plus required apps to use the Moitessier HAT out of the box.
 
 :Installed apps: *Starting* edition, I2C, Pypilot.
-:Settings: GNSS reception, AIS reception, compass, hell, pitch, pressure.
+:Settings: GNSS reception, AIS reception, compass, heal, pitch, pressure.
 
 **OpenPlotter À la Carte** (under construction) - *Starting* edition apps plus any app of your election. You will be able to customize some settings too.
 
